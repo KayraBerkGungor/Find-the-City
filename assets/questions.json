@@ -1,0 +1,635 @@
+﻿[
+  {
+    "question": "Seyhan barajinin oldugu ildeyim. Ben neredeyim?",
+    "answer": "Adana"
+  },
+  {
+    "question": "Dunyanin en uzun tas kemer koprusu olan Varda Koprusu'nde yuruyorum. O zaman ben neredeyim?",
+    "answer": "Adana"
+  },
+  {
+    "question": "Sucugu ile unlu olan bir sehir var. Ben tam orada saklaniyorum. Beni bulabilir misin?",
+    "answer": "Afyonkarahisar"
+  },
+  {
+    "question": "Frig Vadisi, Phrygia Vadisi ve Sultan Marshes gibi onemli dogal alanlara sahip olan ilde saklaniyorum. Ben neredeyim?",
+    "answer": "Afyonkarahisar"
+  },
+  {
+    "question": "Turkiye'nin en buyuk lavanta tarlalarina ev sahipligi yapan ilde saklaniyorum. O zaman ben neredeyim?",
+    "answer": "Afyonkarahisar"
+  },
+
+  {
+    "question": "Unlu Ihlara Vadisi'ne yakin konumuyla bilinen, Nevsehir'e komsu olan bir ilde saklaniyorum. Beni bulabilir misin?",
+    "answer": "Aksaray"
+  },
+  {
+    "question": "Jeolojik olusumlariyla dikkat ceken dogal bir yapi olan Hasan Dagi’nin eteklerinde saklanmaktayim. O zaman ben nerede saklaniyorum?",
+    "answer": "Aksaray"
+  },
+  {
+    "question": "Yesilirmak Nehri kiyisinda bulunan ve Yaliboyu Evleri ile unlu olan ilde saklaniyorum. O zaman ben nerede saklaniyorum?",
+    "answer": "Amasya"
+  },
+  {
+    "question": "Pontus Krali Mithridates'in mezarinin bulundugu ilde saklaniyorum. O zaman ben nerede saklaniyorum?",
+    "answer": "Amasya"
+  },
+  {
+    "question": "Elma'si ile unlu bir sehirde saklaniyorum. O zaman ben nerede saklaniyorum?",
+    "answer": "Amasya"
+  },
+  {
+    "question": "Turkiye’nin baskentinde saklaniyorum. Ben neredeyim?",
+    "answer": "Ankara"
+  },
+  {
+    "question": "Turkiye Buyuk Millet Meclisi'nin (TBMM) bulundugu sehirde saklaniyorum. O zaman ben nerede saklaniyorum?",
+    "answer": "Ankara"
+  },
+  {
+    "question": "Ataturk Orman Ciftligi'nin bulundugu sehirde saklaniyorum. O zaman ben nerede saklaniyorum?",
+    "answer": "Ankara"
+  },
+  {
+    "question": "Turkiye’nin en buyuk ikinci golu olan Mogan Golu'nde saklaniyorum. O zaman ben nerede saklaniyorum?",
+    "answer": "Ankara"
+  },
+  {
+    "question": "Turkiye’nin en populer turizm merkezlerinden biri olan 'Turk Rivierasi', hangi sehri kapsar? Iste, ben tam olarak orada saklaniyorum. Beni bulabilir misin?",
+    "answer": "Antalya"
+  },
+  {
+    "question": "Duden Selalesi ve Kursunlu Selalesi gibi dogal guzelliklere ev sahipligi yapan ilde saklaniyorum. Hangi ilde saklaniyorum?",
+    "answer": "Antalya"
+  },
+  {
+    "question": "Termessos Antik Kenti ve Aspendos Antik Tiyatrosu gibi tarihi miraslara sahip olan ilimizde saklanmaktayim. Beni bulabilir misin?",
+    "answer": "Antalya"
+  },
+  {
+    "question": "Likya Yolu gibi unlu yuruyus parkurlarina ev sahipligi yapan, turkuaz renkli denizi ve antik kentleriyle unlu olan bir ilde saklaniyorum. O zaman ben hangi ilde saklaniyorum?",
+    "answer": "Antalya"
+  },
+  {
+    "question": "Turkiye’nin en soguk illerinden biri olarak bilinen, Kura Nehri'nin kenarinda bulunan ilde saklaniyorum. O zaman ben hangi ilde saklaniyorum?",
+    "answer": "Ardahan"
+  },
+  {
+    "question": "En buyuk gollerden biri olan Cildir Golu'nde saklaniyorum. Beni bulabilir misin?",
+    "answer": "Ardahan"
+  },
+  {
+    "question": "Turkiye’nin Gurcistan ile arasinda bulunan sinir ilinde saklanmaktayim. Beni bulabilir misin?",
+    "answer": "Artvin"
+  },
+  {
+    "question": "Macahel Vadisi ve Karagol gibi dogal guzelliklere ev sahipligi yapan ilde saklaniyorum. O zaman ben hangi ilde saklaniyorum?",
+    "answer": "Artvin"
+  },
+  {
+    "question": "Turkiye'nin en yuksek selalelerinden biri olan Mencuna Selalesi’nde saklaniyorum. O zaman ben nerede saklaniyorum?",
+    "answer": "Artvin"
+  },
+  {
+    "question": "Didim ve Kusadasi gibi tatil yorelerine ev sahipligi yapan ildeyim. Beni bulabilir misin?",
+    "answer": "Aydin"
+  },
+  {
+    "question": "Turkiye’de antik cagin onemli kentlerinden biri olan, Buyuk Iskender'in babasi II.Amyntas’in adini tasiyan, tarihi zenginliklere sahip olan ilde saklanmaktayim. O zaman ben nerede saklanmaktayim?",
+    "answer": "Aydin"
+  },
+  {
+    "question": "Efes Antik Kenti ve Milet Antik Kenti gibi onemli tarihi kalintilara ev sahipligi yapan, antik cagin onemli merkezlerinden birine komsu olan ildeyim. Beni bulabilir misin?",
+    "answer": "Aydin"
+  },
+  {
+    "question": "Turkiye’de Zeytinli Koyu ve Ayvalik gibi turistik yerlere ev sahipligi yapan, Kaz Daglari'nin eteklerinde bulunan ilde saklaniyorum. Ben hangi ildeyim?",
+    "answer": "Balikesir"
+  },
+  {
+    "question": "Turkiye’nin en buyuk ilin arasinda yer alan, Kizilkecili, Manyas ve Uluabat gibi dogal gollere sahip olan ilde saklaniyorum. O zaman ben hangi ilde saklaniyorum?",
+    "answer": "Balikesir"
+  },
+  {
+    "question": "Edremit Korfezi'ne kiyisi bulunan ilde saklaniyorum. O zaman ben hangi ilde saklaniyorum?",
+    "answer": "Balikesir"
+  },
+  {
+    "question": "Turkiye’nin batisinda, Ege Bolgesi'nde yer alan, Cunda Adasi ve Seytan Sofrasi gibi turistik bolgelere ev sahipligi yapan ilde saklaniyorum. O zaman ben hangi ilde saklaniyorum?",
+    "answer": "Balikesir"
+  },
+  {
+    "question": "Amasra Kalesi ve Kuskayasi Yol Aniti gibi tarihi yerlere ev sahipligi yapan, Karadeniz kiyisinda bulunan ildeyim. Ben hangi ilde saklaniyorum?",
+    "answer": "Bartin"
+  },
+  {
+    "question": "Gideros Koyu gibi dogal guzelliklere sahip olan ilde saklaniyorum. Ben hangi ilde saklaniyorum?",
+    "answer": "Bartin"
+  },
+  {
+    "question": "Hasankeyf gibi tarihi yerlere ev sahipligi yapan ilde saklaniyorum. Ben hangi ilde saklaniyorum?",
+    "answer": "Batman"
+  },
+  {
+    "question": "Dicle Nehri gibi onemli akarsularin bulundugu ilde saklaniyorum. O zaman ben hangi ilde saklaniyorum?",
+    "answer": "Batman"
+  },
+  {
+    "question": "Turkiye’nin en kucuk illerinden biri olan ve Sırakaya Selalesi ile unlu olan ilde saklaniyorum. Ben hangi ilde saklaniyorum?",
+    "answer": "Bayburt"
+  },
+  {
+    "question": "Coruh Nehri'nin kiyisinda bulunan ve eski Ipek Yolu guzergahi uzerinde bulunan ildeyim. O zaman ben hangi ilde saklaniyorum?",
+    "answer": "Bayburt"
+  },
+  {
+    "question": "Osmanli Imparatorlugu'nun kuruldugu yer olan Sogut ilcesine ev sahipligi yapan ilde saklaniyorum. Ben hangi ilde saklaniyorum?",
+    "answer": "Bilecik"
+  },
+  {
+    "question": "Seyh Edebali Turbesi'nin bulundugu ilde saklaniyorum. O zaman ben hangi ilde saklaniyorum?",
+    "answer": "Bilecik"
+  },
+  {
+    "question": "Yuzen Adalar gibi dogal guzelliklere ev sahipligi yapan ilde saklaniyorum. Ben hangi ilde saklaniyorum?",
+    "answer": "Bingol"
+  },
+  {
+    "question": "Murat Nehri'nin gectigi ve Yuzen Ada(Turnalar Golu) bulunan ilde saklaniyorum. O zaman ben hangi ilde saklaniyorum?",
+    "answer": "Bingol"
+  },
+  {
+    "question": "Nemrut Krater Golu ve Ahlat Selcuklu Mezarligi gibi tarihi ve dogal guzelliklere sahip olan ilde saklaniyorum. Ben hangi ilde saklaniyorum?",
+    "answer": "Bitlis"
+  },
+  {
+    "question": "Turkiye’nin en buyuk golu olan Van Golu'nun kiyisinda bulunan ve Adilcevaz ilcesine ev sahipligi yapan ilde saklaniyorum. O zaman ben hangi ilde saklaniyorum?",
+    "answer": "Bitlis"
+  },
+  {
+    "question": "Abant Golu ve Yedigoller Milli Parki gibi dogal guzelliklere sahip olan ilde saklaniyorum. Ben hangi ilde saklaniyorum?",
+    "answer": "Bolu"
+  },
+  {
+    "question": "Turkiye'nin en guzel yaylalarindan bazilarina ev sahipligi yapan ve Kartalkaya Kayak Merkezi'ne sahip olan ilde saklaniyorum. O zaman ben hangi ilde saklaniyorum?",
+    "answer": "Bolu"
+  },
+  {
+    "question": "Salda Golu gibi unlu dogal guzelliklere sahip olan ilde saklaniyorum. Ben hangi ilde saklaniyorum?",
+    "answer": "Burdur"
+  },
+  {
+    "question": "Sagalassos Antik Kenti gibi tarihi yerlere ev sahipligi yapan ilde saklaniyorum. O zaman ben hangi ilde saklaniyorum?",
+    "answer": "Burdur"
+  },
+  {
+    "question": "Uludag gibi onemli turistik yerlere sahip olan ilde saklaniyorum. Ben hangi ilde saklaniyorum?",
+    "answer": "Bursa"
+  },
+  {
+    "question": "Turkiye'nin en onemli sanayi sehirlerinden biri olan ve Cumalikizik Koyu gibi tarihi yerlere ev sahipligi yapan ilde saklaniyorum. O zaman ben hangi ilde saklaniyorum?",
+    "answer": "Bursa"
+  },
+  {
+    "question": "Kurtulus Savasi galibiyeti için onemli bir yer olan ve Gelibolu Yarimadasi'na ev sahipligi yapan ilde saklaniyorum. Ben hangi ilde saklaniyorum?",
+    "answer": "Canakkale"
+  },
+  {
+    "question": "Antik Troya kenti ve Assos gibi tarihi yerlere sahip olan ilde saklaniyorum. O zaman ben hangi ilde saklaniyorum?",
+    "answer": "Canakkale"
+  },
+  {
+    "question": "Kaya tuzu magaralariyla unlu olan ilde saklaniyorum. Ben hangi ilde saklaniyorum?",
+    "answer": "Cankiri"
+  },
+  {
+    "question": "Yaprakli Yaylasi ve Ilgaz Dagi gibi dogal guzelliklere sahip olan ilde saklaniyorum. O zaman ben hangi ilde saklaniyorum?",
+    "answer": "Cankiri"
+  },
+  {
+    "question": "Hattusas Antik Kenti gibi tarihi yerlere sahip olan ilde saklaniyorum. Ben hangi ilde saklaniyorum?",
+    "answer": "Corum"
+  },
+  {
+    "question": "Turkiye'nin en buyuk barajlarindan biri olan Obruk Baraji'nin bulundugu ilde saklaniyorum. O zaman ben hangi ilde saklaniyorum?",
+    "answer": "Corum"
+  },
+  {
+    "question": "Pamukkale Travertenleri ile unlu olan ilde saklaniyorum. Ben hangi ilde saklaniyorum?",
+    "answer": "Denizli"
+  },
+  {
+    "question": "Hierapolis Antik Kenti gibi tarihi yerlere ev sahipligi yapan ilde saklaniyorum. O zaman ben hangi ilde saklaniyorum?",
+    "answer": "Denizli"
+  },
+  {
+    "question": "Tarihi surlariyla unlu olan ilde saklaniyorum. Ben hangi ilde saklaniyorum?",
+    "answer": "Diyarbakir"
+  },
+  {
+    "question": "Dicle Nehri'nin gectigi ve On Gozlu Kopru gibi tarihi yapilara sahip olan ilde saklaniyorum. O zaman ben hangi ilde saklaniyorum?",
+    "answer": "Diyarbakir"
+  },
+  {
+    "question": "Akcakoca gibi sahil bolgelerine sahip olan ilde saklaniyorum. Ben hangi ilde saklaniyorum?",
+    "answer": "Duzce"
+  },
+  {
+    "question": "Turkiye'nin en onemli rafting merkezlerinden biri olan Melen Cayi'nin bulundugu ilde saklaniyorum. O zaman ben hangi ilde saklaniyorum?",
+    "answer": "Duzce"
+  },
+  {
+    "question": "Bulgaristan ve Yunanistan sinirinda bulunan ve Selimiye Camii gibi tarihi eserlere ev sahipligi yapan ilde saklaniyorum. Ben hangi ilde saklaniyorum?",
+    "answer": "Edirne"
+  },
+  {
+    "question": "Kirkpinar Yagli Guresleri'nin duzenlendigi ilde saklaniyorum. O zaman ben hangi ilde saklaniyorum?",
+    "answer": "Edirne"
+  },
+  {
+    "question": "Harput Kalesi gibi tarihi yerlere sahip olan ilde saklaniyorum. Ben hangi ilde saklaniyorum?",
+    "answer": "Elazig"
+  },
+  {
+    "question": "Keban Baraji'nin bulundugu ilde saklaniyorum. O zaman ben hangi ilde saklaniyorum?",
+    "answer": "Elazig"
+  },
+  {
+    "question": "Girlevik Selalesi gibi dogal guzelliklere sahip olan ilde saklaniyorum. Ben hangi ilde saklaniyorum?",
+    "answer": "Erzincan"
+  },
+  {
+    "question": "Ergan Dagi Kayak Merkezi'nin bulundugu ilde saklaniyorum. O zaman ben hangi ilde saklaniyorum?",
+    "answer": "Erzincan"
+  },
+  {
+    "question": "Palandoken Dagi gibi unlu kayak merkezlerine sahip olan ilde saklaniyorum. Ben hangi ilde saklaniyorum?",
+    "answer": "Erzurum"
+  },
+  {
+    "question": "Tarihi Cifte Minareli Medrese'nin bulundugu ilde saklaniyorum. O zaman ben hangi ilde saklaniyorum?",
+    "answer": "Erzurum"
+  },
+  {
+    "question": "Turkiye'nin Ic Anadolu Bolgesi'nde bulunan ve Porsuk Cayi ile unlu olan ilde saklaniyorum. Ben hangi ilde saklaniyorum?",
+    "answer": "Eskisehir"
+  },
+  {
+    "question": "Tarihi Odunpazari Evleri'nin bulundugu ilde saklaniyorum. O zaman ben hangi ilde saklaniyorum?",
+    "answer": "Eskisehir"
+  },
+  {
+    "question": "Baklavasi ile unlu olan ilde saklaniyorum. Ben hangi ilde saklaniyorum?",
+    "answer": "Gaziantep"
+  },
+  {
+    "question": "Zeugma Mozaik Muzesi'nin bulundugu ilde saklaniyorum. O zaman ben hangi ilde saklaniyorum?",
+    "answer": "Gaziantep"
+  },
+  {
+    "question": "Findigi ve kirazi ile unlu olan ilde saklaniyorum. O zaman ben nerede saklaniyorum?",
+    "answer": "Giresun"
+  },
+  {
+    "question": "Her sene düzenlenen Aksu Festivali ile unlu olan ilde saklaniyorum. O zaman ben hangi ilde saklaniyorum?",
+    "answer": "Giresun"
+  },
+  {
+    "question": "Karaca Magarasi gibi dogal guzelliklere sahip olan ilde saklaniyorum. O zaman ben nerede saklaniyorum?",
+    "answer": "Gumushane"
+  },
+  {
+    "question": "Santa Harabeleri'nin bulundugu ilde saklaniyorum. O zaman ben hangi ilde saklaniyorum?",
+    "answer": "Gumushane"
+  },
+  {
+    "question": "Cilo Daglari gibi yuksek daglara sahip olan ilde saklaniyorum. O zaman ben nerede saklaniyorum?",
+    "answer": "Hakkari"
+  },
+  {
+    "question": "Zap Vadisi'nin bulundugu ilde saklaniyorum. O zaman ben hangi ilde saklaniyorum?",
+    "answer": "Hakkari"
+  },
+  {
+    "question": "Antakya gibi tarihi ve kulturel zenginliklere sahip olan ilde saklaniyorum. O zaman ben nerede saklaniyorum?",
+    "answer": "Hatay"
+  },
+  {
+    "question": "Saint Pierre Kilisesi'nin bulundugu ilde saklaniyorum. O zaman ben hangi ilde saklaniyorum?",
+    "answer": "Hatay"
+  },
+  {
+    "question": "Agri Dagi'nin eteklerinde bulunan ilde saklaniyorum. O zaman ben nerede saklaniyorum?",
+    "answer": "Igdir"
+  },
+  {
+    "question": "Tuzluca Tuz Magaralari'nin bulundugu ilde saklaniyorum. O zaman ben hangi ilde saklaniyorum?",
+    "answer": "Igdir"
+  },
+  {
+    "question": "Gul bahceleri ile unlu olan ilde saklaniyorum. O zaman ben nerede saklaniyorum?",
+    "answer": "Isparta"
+  },
+  {
+    "question": "Egirdir Golu'nun bulundugu ilde saklaniyorum. O zaman ben hangi ilde saklaniyorum?",
+    "answer": "Isparta"
+  },
+  {
+    "question": "Turkiye'nin en kalabalik sehri ve eski adi Konstantinopolis olan ilde saklaniyorum. O zaman ben nerede saklaniyorum?",
+    "answer": "Istanbul"
+  },
+  {
+    "question": "Bogazici Koprusu'nun bulundugu ilde saklaniyorum. O zaman ben hangi ilde saklaniyorum?",
+    "answer": "Istanbul"
+  },
+  {
+    "question": "Efes Antik Kenti'ne ev sahipligi yapan ilde saklaniyorum. O zaman ben nerede saklaniyorum?",
+    "answer": "Izmir"
+  },
+  {
+    "question": "Her yil Agustos ve Eylul aylarinda Izmir'de duzenlenen Turkiye'nin en koklu, en taninmis ve en kapsamli fuari olan ilde saklaniyorum. O zaman ben hangi ilde saklaniyorum?",
+    "answer": "Izmir"
+  },
+  {
+    "question": "Ani Harabeleri gibi tarihi yerlere sahip olan ilde saklaniyorum. O zaman ben nerede saklaniyorum?",
+    "answer": "Kars"
+  },
+  {
+    "question": "Cildir Golu'nun bulundugu ilde saklaniyorum. O zaman ben hangi ilde saklaniyorum?",
+    "answer": "Kars"
+  },
+  {
+    "question": "Ilgaz Dagi Milli Parki gibi dogal guzelliklere sahip olan ilde saklaniyorum. O zaman ben nerede saklaniyorum?",
+    "answer": "Kastamonu"
+  },
+  {
+    "question": "Etnografya Muzesi'nin bulundugu ilde saklaniyorum. O zaman ben hangi ilde saklaniyorum?",
+    "answer": "Kastamonu"
+  },
+  {
+    "question": "Erciyes Dagi gibi unlu kayak merkezlerine sahip olan ilde saklaniyorum. O zaman ben nerede saklaniyorum?",
+    "answer": "Kayseri"
+  },
+  {
+    "question": "Silah Sanayi Muzesi gibi yerlere sahip olan ilde saklaniyorum. O zaman ben nerede saklaniyorum?",
+    "answer": "Kirikkale"
+  },
+  {
+    "question": "Kizilirmak Nehri'nin gectigi ilde saklaniyorum. O zaman ben nerede saklaniyorum?",
+    "answer": "Kirikkale"
+  },
+  {
+    "question": "Trakya Bolgesi'nde bulunan ve Dupnisa Magarasi gibi dogal guzelliklere sahip olan ilde saklaniyorum. O zaman ben nerede saklaniyorum?",
+    "answer": "Kirklareli"
+  },
+  {
+    "question": "Istranca Daglari'nin bulundugu ilde saklaniyorum. O zaman ben nerede saklaniyorum?",
+    "answer": "Kirklareli"
+  },
+  {
+    "question": "Cacabey Medresesi gibi tarihi yerlere sahip olan ilde saklaniyorum. O zaman ben nerede saklaniyorum?",
+    "answer": "Kirsehir"
+  },
+  {
+    "question": "Ahi Evran-i Veli Turbesi'nin bulundugu ilde saklaniyorum. O zaman ben nerede saklaniyorum?",
+    "answer": "Kirsehir"
+  },
+  {
+    "question": "Suriye sinirinda bulunan ve Oylum Hoyuk gibi tarihi yerlere sahip olan ilde saklaniyorum. O zaman ben nerede saklaniyorum?",
+    "answer": "Kilis"
+  },
+  {
+    "question": "Ravanda Kalesi'nin bulundugu ilde saklaniyorum. O zaman ben nerede saklaniyorum?",
+    "answer": "Kilis"
+  },
+  {
+    "question": "Izmit Korfezi'ne ev sahipligi yapan ilde saklaniyorum. O zaman ben nerede saklaniyorum?",
+    "answer": "Kocaeli"
+  },
+  {
+    "question": "Turkiye'nin en buyuk sanayi bolgelerinden birine sahip olan ilde saklaniyorum. O zaman ben nerede saklaniyorum?",
+    "answer": "Kocaeli"
+  },
+  {
+    "question": "Mevlana Muzesi'ne ev sahipligi yapan ilde saklaniyorum. O zaman ben nerede saklaniyorum?",
+    "answer": "Konya"
+  },
+  {
+    "question": "Turkiye'nin yuzolcumu en buyuk ili olan ve Tuz Golu'nun bir kismina sahip olan ilde saklaniyorum. O zaman ben nerede saklaniyorum?",
+    "answer": "Konya"
+  },
+  {
+    "question": "Cini ve seramikleri ile unlu olan ilde saklaniyorum. O zaman ben nerede saklaniyorum?",
+    "answer": "Kutahya"
+  },
+  {
+    "question": "Frig Vadisi ve Aizanoi Antik Kenti gibi tarihi yerlere sahip olan ilde saklaniyorum. O zaman ben nerede saklaniyorum?",
+    "answer": "Kutahya"
+  },
+  {
+    "question": "Kayisisi ile unlu olan ilde saklaniyorum. O zaman ben nerede saklaniyorum?",
+    "answer": "Malatya"
+  },
+  {
+    "question": "Battalgazi ilcesinde bulunan Aslantepe Hoyugu'ne ev sahipligi yapan ilde saklaniyorum. O zaman ben nerede saklaniyorum?",
+    "answer": "Malatya"
+  },
+  {
+    "question": "Spil Dagi Milli Parki gibi dogal guzelliklere sahip olan ilde saklaniyorum. O zaman ben nerede saklaniyorum?",
+    "answer": "Manisa"
+  },
+  {
+    "question": "Tas isciligi ile unlu olan ve sehrin ismine sahip olan evlere sahip olan ilde saklaniyorum. O zaman ben nerede saklaniyorum?",
+    "answer": "Mardin"
+  },
+  {
+    "question": "Deyrulzafaran Manastiri'nin bulundugu ilde saklaniyorum. O zaman ben nerede saklaniyorum?",
+    "answer": "Mardin"
+  },
+  {
+    "question": "Tarsus Selalesi gibi dogal guzelliklere sahip olan ilde saklaniyorum. O zaman ben nerede saklaniyorum?",
+    "answer": "Mersin"
+  },
+  {
+    "question": "Turkiye'nin en buyuk limanlarindan birine sahip olan ilde saklaniyorum. O zaman ben nerede saklaniyorum?",
+    "answer": "Mersin"
+  },
+  {
+    "question": "Bodrum, Marmaris ve Fethiye gibi turistik ilcelere sahip olan ilde saklaniyorum. O zaman ben nerede saklaniyorum?",
+    "answer": "Mugla"
+  },
+  {
+    "question": "Oludeniz ve Dalyan gibi dogal guzelliklere ev sahipligi yapan ilde saklaniyorum. O zaman ben nerede saklaniyorum?",
+    "answer": "Mugla"
+  },
+  {
+    "question": "Malazgirt Meydan Muharebesi'nin yapildigi topraklara sahip olan ilde saklaniyorum. O zaman ben nerede saklaniyorum?",
+    "answer": "Mus"
+  },
+  {
+    "question": "Muradiye Selalesi'nin bulundugu ilde saklaniyorum. O zaman ben nerede saklaniyorum?",
+    "answer": "Mus"
+  },
+  {
+    "question": "Kapadokya'nin peri bacalariyla unlu olan ilde saklaniyorum. O zaman ben nerede saklaniyorum?",
+    "answer": "Nevsehir"
+  },
+  {
+    "question": "Goreme Acik Hava Muzesi'nin bulundugu ilde saklaniyorum. O zaman ben nerede saklaniyorum?",
+    "answer": "Nevsehir"
+  },
+  {
+    "question": "Aladaglar Milli Parki gibi dogal guzelliklere sahip olan ilde saklaniyorum. O zaman ben nerede saklaniyorum?",
+    "answer": "Nigde"
+  },
+  {
+    "question": "Patatesi ile unlu olan ilde saklaniyorum. O zaman ben nerede saklaniyorum?",
+    "answer": "Nigde"
+  },
+  {
+    "question": "Boztepe gibi manzarali yerlere sahip olan ilde saklaniyorum. O zaman ben nerede saklaniyorum?",
+    "answer": "Ordu"
+  },
+  {
+    "question": "Unye ve Fatsa gibi ilcelere sahip olan ilde saklaniyorum. O zaman ben nerede saklaniyorum?",
+    "answer": "Ordu"
+  },
+  {
+    "question": "Amanos Daglari ile cevrili olan ve Karatepe-Aslantas Acik Hava Muzesi'ne sahip olan ilde saklaniyorum. O zaman ben nerede saklaniyorum?",
+    "answer": "Osmaniye"
+  },
+  {
+    "question": "Kadirli ilcesine sahip olan ve yer fistigi uretimi ile unlu olan ilde saklaniyorum. O zaman ben nerede saklaniyorum?",
+    "answer": "Osmaniye"
+  },
+  {
+    "question": "Cayi ile unlu olan ilde saklaniyorum. O zaman ben nerede saklaniyorum?",
+    "answer": "Rize"
+  },
+  {
+    "question": "Ayder Yaylasi'nin bulundugu ilde saklaniyorum. O zaman ben nerede saklaniyorum?",
+    "answer": "Rize"
+  },
+  {
+    "question": "Sapanca Golu'ne sahip olan ilde saklaniyorum. O zaman ben nerede saklaniyorum?",
+    "answer": "Sakarya"
+  },
+  {
+    "question": "Bungalov tatilleri ile meshur olan ilde saklaniyorum. O zaman ben nerede saklaniyorum?",
+    "answer": "Sakarya"
+  },
+  {
+    "question": "Bandirma Vapuru ile simgelenen unlu olan ilde saklaniyorum. Ben hangi ilde saklaniyorum?",
+    "answer": "Samsun"
+  },
+  {
+    "question": "Turk Kurtulus Savasinin basladigi sehir kabul edilen ilde saklaniyorum. O zaman ben hangi ilde saklaniyorum?",
+    "answer": "Samsun"
+  },
+  {
+    "question": "Veysel Karani Turbesi gibi yerlere sahip olan ilde saklaniyorum. Ben hangi ilde saklaniyorum?",
+    "answer": "Siirt"
+  },
+  {
+    "question": "Tillo ilcesine sahip olan ve Botan Vadisi Milli Parki'na ev sahipligi yapan ilde saklaniyorum. O zaman ben hangi ilde saklaniyorum?",
+    "answer": "Siirt"
+  },
+  {
+    "question": "Turkiye'nin en kuzey noktasinda yer alan ilde saklaniyorum. Ben hangi ilde saklaniyorum?",
+    "answer": "Sinop"
+  },
+  {
+    "question": "Hamsilos Koyu'nun bulundugu ilde saklaniyorum. O zaman ben hangi ilde saklaniyorum?",
+    "answer": "Sinop"
+  },
+  {
+    "question": "Divrigi Ulu Camii gibi tarihi eserlere sahip olan ilde saklaniyorum. Ben hangi ilde saklaniyorum?",
+    "answer": "Sivas"
+  },
+  {
+    "question": "Balikligol gibi tarihi yerlere sahip olan ilde saklaniyorum. Ben hangi ilde saklaniyorum?",
+    "answer": "Sanliurfa"
+  },
+  {
+    "question": "Gobeklitepe'nin bulundugu ilde saklaniyorum. O zaman ben hangi ilde saklaniyorum?",
+    "answer": "Sanliurfa"
+  },
+  {
+    "question": "Cizre ilcesi gibi tarihi yerlere sahip olan ilde saklaniyorum. Ben hangi ilde saklaniyorum?",
+    "answer": "Sirnak"
+  },
+  {
+    "question": "Cudi Dagi'nin bulundugu ilde saklaniyorum. O zaman ben hangi ilde saklaniyorum?",
+    "answer": "Sirnak"
+  },
+  {
+    "question": "Uzum baglari ile unlu olan ilde saklaniyorum. Ben hangi ilde saklaniyorum?",
+    "answer": "Tekirdag"
+  },
+  {
+    "question": "Rakisi ile unlu olan ve Sarkoy ilcesine sahip olan ilde saklaniyorum. O zaman ben hangi ilde saklaniyorum?",
+    "answer": "Tekirdag"
+  },
+  {
+    "question": "Zile Kalesi gibi tarihi yerlere sahip olan ilde saklaniyorum. Ben hangi ilde saklaniyorum?",
+    "answer": "Tokat"
+  },
+  {
+    "question": "Ballica Magarasi'nin bulundugu ilde saklaniyorum. O zaman ben hangi ilde saklaniyorum?",
+    "answer": "Tokat"
+  },
+  {
+    "question": "Sumela Manastiri gibi tarihi yerlere sahip olan ilde saklaniyorum. Ben hangi ilde saklaniyorum?",
+    "answer": "Trabzon"
+  },
+  {
+    "question": "Uzungol'un bulundugu ilde saklaniyorum. O zaman ben hangi ilde saklaniyorum?",
+    "answer": "Trabzon"
+  },
+  {
+    "question": "Munzur Daglari ile cevrili olan ve Munzur Vadisi Milli Parki'na ev sahipligi yapan ilde saklaniyorum. Ben hangi ilde saklaniyorum?",
+    "answer": "Tunceli"
+  },
+  {
+    "question": "Ovacik ilcesine sahip olan ve Pulumur Vadisi'ne ev sahipligi yapan ilde saklaniyorum. O zaman ben hangi ilde saklaniyorum?",
+    "answer": "Tunceli"
+  },
+  {
+    "question": "Ulubey Kanyonu gibi dogal guzelliklere sahip olan ilde saklaniyorum. Ben hangi ilde saklaniyorum?",
+    "answer": "Usak"
+  },
+  {
+    "question": "Karun Hazineleri'nin sergilendigi Usak Arkeoloji Muzesi'nin bulundugu ilde saklaniyorum. O zaman ben hangi ilde saklaniyorum?",
+    "answer": "Usak"
+  },
+  {
+    "question": "Golu ile unlu olan ilde saklaniyorum. Ben hangi ilde saklaniyorum?",
+    "answer": "Van"
+  },
+  {
+    "question": "Akdamar Adasi'nin bulundugu ilde saklaniyorum. O zaman ben hangi ilde saklaniyorum?",
+    "answer": "Van"
+  },
+  {
+    "question": "Termal kaplicalari ile unlu olan ilde saklaniyorum. Ben hangi ilde saklaniyorum?",
+    "answer": "Yalova"
+  },
+  {
+    "question": "Yuruyen Kosk'un bulundugu ilde saklaniyorum. O zaman ben hangi ilde saklaniyorum?",
+    "answer": "Yalova"
+  },
+  {
+    "question": "Camlik Milli Parki gibi dogal guzelliklere sahip olan ilde saklaniyorum. Ben hangi ilde saklaniyorum?",
+    "answer": "Yozgat"
+  },
+  {
+    "question": "Tas komuru madenciligi ile unlu olan ilde saklaniyorum. Ben hangi ilde saklaniyorum?",
+    "answer": "Zonguldak"
+  },
+  {
+    "question": "Gokgol Magarasi'nin bulundugu ilde saklaniyorum. O zaman ben hangi ilde saklaniyorum?",
+    "answer": "Zonguldak"
+  }
+]
